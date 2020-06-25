@@ -15,6 +15,7 @@ Pod::Spec.new do |spec|
   spec.swift_version = "4.0"
   spec.exclude_files = "accuraocrSDK/*/.{plist,png}"
   spec.dependency 'OpenCV', '3.4.2'
+  spec.dependency 'Firebase'
   spec.dependency 'Firebase/MLVision'
   spec.dependency 'Firebase/MLVisionTextModel'
   spec.dependency 'Firebase/MLVisionFaceModel'
