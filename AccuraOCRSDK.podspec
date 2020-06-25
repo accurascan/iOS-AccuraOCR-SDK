@@ -12,6 +12,7 @@ Pod::Spec.new do |spec|
   spec.source       = { :git => "https://github.com/technozer01/AccuraOCR.git"}
   spec.preserve_paths = 'AccuraOCR.framework'
   spec.vendored_frameworks = 'AccuraOCR.framework'
+  spec.requires_arc = true
   spec.swift_version = "4.0"
   spec.exclude_files = "accuraocrSDK/*/.{plist,png}"
   spec.dependency 'OpenCV', '3.4.2'
