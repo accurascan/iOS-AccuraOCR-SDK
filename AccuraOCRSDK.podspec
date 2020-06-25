@@ -14,7 +14,8 @@ Pod::Spec.new do |spec|
   spec.vendored_frameworks = 'AccuraOCR.framework'
   spec.requires_arc = true
   spec.swift_version = "4.0"
-  spec.exclude_files = "accuraocrSDK/*/.{plist,png}"
+  spec.exclude_files = "accuraocrSDK/*/.{png}"
+  spec.resource = 'GoogleService-Info.plist'
   spec.dependency 'OpenCV', '3.4.2'
   spec.dependency 'Firebase'
   spec.dependency 'Firebase/MLVision'
