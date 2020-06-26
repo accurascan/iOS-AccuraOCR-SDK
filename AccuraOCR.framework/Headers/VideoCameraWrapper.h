@@ -10,11 +10,13 @@
 #import <UIKit/UIKit.h>
 #import "VideoCameraWrapperDelegate.h"
 #import "SDKModels.h"
+#import <Firebase.h>
 
 @interface VideoCameraWrapper : NSObject
 
 {
     BOOL _isCapturing;
+    BOOL _isMotion;
     NSThread *thread;
 //    SDKModel sdkm;
 }

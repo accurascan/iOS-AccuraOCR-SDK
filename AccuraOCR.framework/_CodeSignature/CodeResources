@@ -94,11 +94,7 @@
 		</data>
 		<key>Headers/AccuraOCR.h</key>
 		<data>
-		FhjZvYvc9WHIMAMDWonlcJ9EdC8=
-		</data>
-		<key>Headers/AccuraSDK.h</key>
-		<data>
-		j47OqyHxRHwf8kKu5VQNR0DtyZM=
+		mFclz7MRYBt4UjDjKuc1tSh7PQQ=
 		</data>
 		<key>Headers/GlobalMethods.h</key>
 		<data>
@@ -110,15 +106,11 @@
 		</data>
 		<key>Headers/VideoCameraWrapper.h</key>
 		<data>
-		ve7di/x1MkcOPDOu+rEqqosqJHs=
+		HTpqkdn7YrQ34rfsOMMu/LMSoKk=
 		</data>
 		<key>Headers/VideoCameraWrapperDelegate.h</key>
 		<data>
 		14NA4nj8w7fGcq7AsmIpNdT3OcQ=
-		</data>
-		<key>Headers/json.hpp</key>
-		<data>
-		lEuRUyTL21qhIQYqR2q8XFdWi6c=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -128,6 +120,18 @@
 		<data>
 		lm4B+dtckRQRK9HtfIF5ZfH2h7A=
 		</data>
+		<key>ZoomHybrid.pub</key>
+		<data>
+		a42NKC8AYfpIqKXU1P09wssgiko=
+		</data>
+		<key>default_user.png</key>
+		<data>
+		VZELNtwNPlgWn11c3dV0vtnRx/Q=
+		</data>
+		<key>fdata.xml</key>
+		<data>
+		8MEF54k9TRXjJg++ew/DmG4lAg8=
+		</data>
 		<key>mMQDF_f_Passport_bottom.dic</key>
 		<data>
 		38k89ZfFrkgKQCHCOvRpXgG1MFA=
@@ -135,6 +139,14 @@
 		<key>mMQDF_f_Passport_bottom_Gray.dic</key>
 		<data>
 		y/e5l/CcgWM//QQSePyQnMd+ahA=
+		</data>
+		<key>model1.dat</key>
+		<data>
+		3hLGO7CdwyE9Dhv/vJmQ5VS5gLM=
+		</data>
+		<key>model2.dat</key>
+		<data>
+		KI/UN33nya2KZ/QVrhqKPo+vgZ0=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -385,22 +397,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FhjZvYvc9WHIMAMDWonlcJ9EdC8=
+			mFclz7MRYBt4UjDjKuc1tSh7PQQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			nL/Rap/LkQaYPG7vXPBNooxcsrvLSHRi2YAHci2CUvg=
-			</data>
-		</dict>
-		<key>Headers/AccuraSDK.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			j47OqyHxRHwf8kKu5VQNR0DtyZM=
-			</data>
-			<key>hash2</key>
-			<data>
-			30wMxQZ0AhfM7gZ8/AliL9w2PRoEYNFwT7ircLoNkro=
+			dcLd+3TwT0uJUg7iJm7QJFMiI8iilwjq7BIrJHw3VNo=
 			</data>
 		</dict>
 		<key>Headers/GlobalMethods.h</key>
@@ -429,11 +430,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ve7di/x1MkcOPDOu+rEqqosqJHs=
+			HTpqkdn7YrQ34rfsOMMu/LMSoKk=
 			</data>
 			<key>hash2</key>
 			<data>
-			qc65tOt9JL3E0RwQ7Ti0Qn03IIQwwHCNmhHvqjwCda0=
+			MDmP6hp9Azx187qKcWhsGDVa5SbY/FYuBXnxr8jQlG0=
 			</data>
 		</dict>
 		<key>Headers/VideoCameraWrapperDelegate.h</key>
@@ -447,17 +448,6 @@
 			Mr5eaIYrvaUdPnyYXUuqQO8bSe1SDZjvClwVaETKNfA=
 			</data>
 		</dict>
-		<key>Headers/json.hpp</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			lEuRUyTL21qhIQYqR2q8XFdWi6c=
-			</data>
-			<key>hash2</key>
-			<data>
-			Bd324raiQ5EY7uOQ7dNB5TMEjXLf26ToMftbM8etMck=
-			</data>
-		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
@@ -467,6 +457,39 @@
 			<key>hash2</key>
 			<data>
 			p12LVWErLi7caihL3csJqDbC/R0SjHVguINvKgxbhBU=
+			</data>
+		</dict>
+		<key>ZoomHybrid.pub</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			a42NKC8AYfpIqKXU1P09wssgiko=
+			</data>
+			<key>hash2</key>
+			<data>
+			zEbjfQYuo7pNlXenrRr/X0hMrvgL86AR291RUg9UnGE=
+			</data>
+		</dict>
+		<key>default_user.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VZELNtwNPlgWn11c3dV0vtnRx/Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			cuop9B92U649LFF4SzOyRNp2+QjNcbMXGk8JqVicuC4=
+			</data>
+		</dict>
+		<key>fdata.xml</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8MEF54k9TRXjJg++ew/DmG4lAg8=
+			</data>
+			<key>hash2</key>
+			<data>
+			geq6K3ZW3HJv7kWij+dwRzMMW/B+pElevO84cSwcajw=
 			</data>
 		</dict>
 		<key>mMQDF_f_Passport_bottom.dic</key>
@@ -489,6 +512,28 @@
 			<key>hash2</key>
 			<data>
 			LmEaKouzvpVcdLOgQooNbgZxJxuqHBk36CG9UNzVEPM=
+			</data>
+		</dict>
+		<key>model1.dat</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3hLGO7CdwyE9Dhv/vJmQ5VS5gLM=
+			</data>
+			<key>hash2</key>
+			<data>
+			6UKuwdV+jJr5Mf6LCOjdq8kqkrLvj6Pr9msHlAfCZ0Y=
+			</data>
+		</dict>
+		<key>model2.dat</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KI/UN33nya2KZ/QVrhqKPo+vgZ0=
+			</data>
+			<key>hash2</key>
+			<data>
+			W2r1A1b+3he9yJ+E9Rh+nzJ1SSkg0XePSttx+1e4MOQ=
 			</data>
 		</dict>
 	</dict>

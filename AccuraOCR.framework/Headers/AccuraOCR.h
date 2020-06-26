@@ -14,10 +14,10 @@ FOUNDATION_EXPORT double AccuraOCRVersionNumber;
 //! Project version string for AccuraOCR.
 FOUNDATION_EXPORT const unsigned char AccuraOCRVersionString[];
 
-#import "GlobalMethods.h"
-#import "VideoCameraWrapperDelegate.h"
-#import "VideoCameraWrapper.h"
-#import "SDKModels.h"
+#import <AccuraOCR/GlobalMethods.h>
+#import <AccuraOCR/VideoCameraWrapperDelegate.h>
+#import <AccuraOCR/VideoCameraWrapper.h>
+#import <AccuraOCR/SDKModels.h>
 
 // In this header, you should import all the public headers of your framework using statements like #import <AccuraOCR/PublicHeader.h>
 
