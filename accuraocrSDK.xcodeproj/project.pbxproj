@@ -46,6 +46,7 @@
 			isa = PBXGroup;
 			children = (
 				A3E9E1C724A5C50000D0B9FA /* AccuraOCR.framework */,
+				A384904424A60FD600ECB42D /* AccuraOCRSDKApp.swift */,
 				A3CC7FA724A45E520046694A /* accuraocrSDK */,
 				A3CC7FA624A45E520046694A /* Products */,
 			);
@@ -62,7 +63,6 @@
 		A3CC7FA724A45E520046694A /* accuraocrSDK */ = {
 			isa = PBXGroup;
 			children = (
-				A384904424A60FD600ECB42D /* AccuraOCRSDKApp.swift */,
 				A3CC7FA824A45E520046694A /* AppDelegate.swift */,
 				A3CC7FAA24A45E520046694A /* SceneDelegate.swift */,
 				A3CC7FAC24A45E520046694A /* ViewController.swift */,

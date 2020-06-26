@@ -10,13 +10,12 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, "9.0"
   spec.static_framework = true
   spec.source       = { :git => "https://github.com/technozer01/AccuraOCR.git"}
-  spec.source_file = 'accuraocrSDK/*/AccuraOCRSDKApp.swift'
   spec.preserve_paths = 'AccuraOCR.framework'
   spec.vendored_frameworks = 'AccuraOCR.framework'
   spec.requires_arc = true
   spec.swift_version = "4.0"
   spec.exclude_files = "accuraocrSDK/*/.{png}"
-  spec.resource = 'GoogleService-Info.plist'
+  spec.resources = ['GoogleService-Info.plist', 'AccuraOCRSDKApp.swift']
   spec.dependency 'OpenCV', '3.4.2'
   spec.dependency 'Firebase'
   spec.dependency 'Firebase/MLVision'
