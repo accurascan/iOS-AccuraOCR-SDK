@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A384904524A60FD600ECB42D /* AccuraOCRSDKApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A384904424A60FD600ECB42D /* AccuraOCRSDKApp.swift */; };
 		A3CC7FA924A45E520046694A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3CC7FA824A45E520046694A /* AppDelegate.swift */; };
 		A3CC7FAB24A45E520046694A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3CC7FAA24A45E520046694A /* SceneDelegate.swift */; };
 		A3CC7FAD24A45E520046694A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3CC7FAC24A45E520046694A /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A384904424A60FD600ECB42D /* AccuraOCRSDKApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AccuraOCRSDKApp.swift; sourceTree = "<group>"; };
 		A3CC7FA524A45E520046694A /* accuraocrSDK.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = accuraocrSDK.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3CC7FA824A45E520046694A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A3CC7FAA24A45E520046694A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -44,6 +46,7 @@
 			isa = PBXGroup;
 			children = (
 				A3E9E1C724A5C50000D0B9FA /* AccuraOCR.framework */,
+				A384904424A60FD600ECB42D /* AccuraOCRSDKApp.swift */,
 				A3CC7FA724A45E520046694A /* accuraocrSDK */,
 				A3CC7FA624A45E520046694A /* Products */,
 			);
@@ -144,6 +147,7 @@
 			files = (
 				A3CC7FAD24A45E520046694A /* ViewController.swift in Sources */,
 				A3CC7FA924A45E520046694A /* AppDelegate.swift in Sources */,
+				A384904524A60FD600ECB42D /* AccuraOCRSDKApp.swift in Sources */,
 				A3CC7FAB24A45E520046694A /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
