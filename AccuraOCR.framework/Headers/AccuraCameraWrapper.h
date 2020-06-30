@@ -10,7 +10,7 @@
 #import <UIKit/UIKit.h>
 #import "VideoCameraWrapperDelegate.h"
 #import "SDKModels.h"
-#import <Firebase.h>
+#import "Firebase.h"
 
 @interface AccuraCameraWrapper : NSObject
 

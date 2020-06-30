@@ -19,6 +19,7 @@ FOUNDATION_EXPORT const unsigned char AccuraOCRVersionString[];
 #import <AccuraOCR/AccuraCameraWrapper.h>
 #import <AccuraOCR/SDKModels.h>
 
+
 // In this header, you should import all the public headers of your framework using statements like #import <AccuraOCR/PublicHeader.h>
 
 

@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A38C68A024A9F76500011F7B /* AccuraOCR.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A38C689F24A9F76500011F7B /* AccuraOCR.framework */; };
+		A3C1C87324AB1A08003EECA7 /* AccuraOCR.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A3C1C87224AB1A07003EECA7 /* AccuraOCR.framework */; };
 		A3CC7FA924A45E520046694A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3CC7FA824A45E520046694A /* AppDelegate.swift */; };
 		A3CC7FAB24A45E520046694A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3CC7FAA24A45E520046694A /* SceneDelegate.swift */; };
 		A3CC7FAD24A45E520046694A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3CC7FAC24A45E520046694A /* ViewController.swift */; };
@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A38C689F24A9F76500011F7B /* AccuraOCR.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AccuraOCR.framework; sourceTree = "<group>"; };
+		A3C1C87224AB1A07003EECA7 /* AccuraOCR.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AccuraOCR.framework; sourceTree = "<group>"; };
 		A3CC7FA524A45E520046694A /* accuraocrSDK.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = accuraocrSDK.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3CC7FA824A45E520046694A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A3CC7FAA24A45E520046694A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -33,7 +33,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A38C68A024A9F76500011F7B /* AccuraOCR.framework in Frameworks */,
+				A3C1C87324AB1A08003EECA7 /* AccuraOCR.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -43,7 +43,7 @@
 		A3CC7F9C24A45E520046694A = {
 			isa = PBXGroup;
 			children = (
-				A38C689F24A9F76500011F7B /* AccuraOCR.framework */,
+				A3C1C87224AB1A07003EECA7 /* AccuraOCR.framework */,
 				A3CC7FA724A45E520046694A /* accuraocrSDK */,
 				A3CC7FA624A45E520046694A /* Products */,
 			);
