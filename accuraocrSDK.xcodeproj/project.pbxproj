@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		A33412E524AB46E700CECDCB /* AppConfrgation.swift in Sources */ = {isa = PBXBuildFile; fileRef = A33412E424AB46E700CECDCB /* AppConfrgation.swift */; };
-		A33412F324AB5AE100CECDCB /* AccuraOCR.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A33412F224AB5AE100CECDCB /* AccuraOCR.framework */; };
+		A33412F524AB5F1100CECDCB /* AccuraOCR.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A33412F424AB5F1100CECDCB /* AccuraOCR.framework */; };
 		A3CC7FB024A45E520046694A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3CC7FAE24A45E520046694A /* Main.storyboard */; };
 		A3CC7FB224A45E530046694A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3CC7FB124A45E530046694A /* Assets.xcassets */; };
 		A3CC7FB524A45E530046694A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3CC7FB324A45E530046694A /* LaunchScreen.storyboard */; };
@@ -16,7 +16,7 @@
 
 /* Begin PBXFileReference section */
 		A33412E424AB46E700CECDCB /* AppConfrgation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppConfrgation.swift; sourceTree = "<group>"; };
-		A33412F224AB5AE100CECDCB /* AccuraOCR.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AccuraOCR.framework; sourceTree = "<group>"; };
+		A33412F424AB5F1100CECDCB /* AccuraOCR.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AccuraOCR.framework; sourceTree = "<group>"; };
 		A3CC7FA524A45E520046694A /* accuraocrSDK.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = accuraocrSDK.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3CC7FAF24A45E520046694A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A3CC7FB124A45E530046694A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -29,7 +29,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A33412F324AB5AE100CECDCB /* AccuraOCR.framework in Frameworks */,
+				A33412F524AB5F1100CECDCB /* AccuraOCR.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -39,7 +39,7 @@
 		A3CC7F9C24A45E520046694A = {
 			isa = PBXGroup;
 			children = (
-				A33412F224AB5AE100CECDCB /* AccuraOCR.framework */,
+				A33412F424AB5F1100CECDCB /* AccuraOCR.framework */,
 				A3CC7FA724A45E520046694A /* accuraocrSDK */,
 				A3CC7FA624A45E520046694A /* Products */,
 			);

@@ -126,7 +126,7 @@
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/arm.swiftmodule</key>
 		<data>
-		IJBlf34P7NntqZprIChhEhyKL3M=
+		6MD10HfW4p+7z4dNxQIKJfIirhs=
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -134,7 +134,7 @@
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		pObQ1z7AI9EjsHiNgUXMkWG+6CI=
+		4s9kQE5aArxmZLKhBuo1Y7Gmu6A=
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -142,7 +142,7 @@
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		pObQ1z7AI9EjsHiNgUXMkWG+6CI=
+		4s9kQE5aArxmZLKhBuo1Y7Gmu6A=
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
@@ -150,7 +150,7 @@
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		IJBlf34P7NntqZprIChhEhyKL3M=
+		6MD10HfW4p+7z4dNxQIKJfIirhs=
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/armv7.swiftdoc</key>
 		<data>
@@ -158,11 +158,23 @@
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/armv7.swiftmodule</key>
 		<data>
-		IJBlf34P7NntqZprIChhEhyKL3M=
+		6MD10HfW4p+7z4dNxQIKJfIirhs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		Sl9tv2nyQS2QovjvOoYpYt9kBLo=
+		</data>
+		<key>ZoomHybrid.pub</key>
+		<data>
+		a42NKC8AYfpIqKXU1P09wssgiko=
+		</data>
+		<key>default_user.png</key>
+		<data>
+		VZELNtwNPlgWn11c3dV0vtnRx/Q=
+		</data>
+		<key>fdata.xml</key>
+		<data>
+		8MEF54k9TRXjJg++ew/DmG4lAg8=
 		</data>
 		<key>mMQDF_f_Passport_bottom.dic</key>
 		<data>
@@ -171,6 +183,14 @@
 		<key>mMQDF_f_Passport_bottom_Gray.dic</key>
 		<data>
 		y/e5l/CcgWM//QQSePyQnMd+ahA=
+		</data>
+		<key>model1.dat</key>
+		<data>
+		3hLGO7CdwyE9Dhv/vJmQ5VS5gLM=
+		</data>
+		<key>model2.dat</key>
+		<data>
+		KI/UN33nya2KZ/QVrhqKPo+vgZ0=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -498,11 +518,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IJBlf34P7NntqZprIChhEhyKL3M=
+			6MD10HfW4p+7z4dNxQIKJfIirhs=
 			</data>
 			<key>hash2</key>
 			<data>
-			FVVlxsOjk76Q/lj/6oubTw8eyrd6wnQb7CakyhAArOU=
+			+fQmC/9GNWQaHMgW6gtONpZ1yTJ7bOo6sH+xoPOk+tw=
 			</data>
 		</dict>
 		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -520,11 +540,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pObQ1z7AI9EjsHiNgUXMkWG+6CI=
+			4s9kQE5aArxmZLKhBuo1Y7Gmu6A=
 			</data>
 			<key>hash2</key>
 			<data>
-			EKHoXt5k8et+MvPR+LDY+g8aGP7bcwD0+smbTZx1gIY=
+			36FaMoynhjMn6SgnUhSm9v387skzo7OrfXSNroeZdmA=
 			</data>
 		</dict>
 		<key>Modules/AccuraOCR.swiftmodule/arm64.swiftdoc</key>
@@ -542,11 +562,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pObQ1z7AI9EjsHiNgUXMkWG+6CI=
+			4s9kQE5aArxmZLKhBuo1Y7Gmu6A=
 			</data>
 			<key>hash2</key>
 			<data>
-			EKHoXt5k8et+MvPR+LDY+g8aGP7bcwD0+smbTZx1gIY=
+			36FaMoynhjMn6SgnUhSm9v387skzo7OrfXSNroeZdmA=
 			</data>
 		</dict>
 		<key>Modules/AccuraOCR.swiftmodule/armv7-apple-ios.swiftdoc</key>
@@ -564,11 +584,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IJBlf34P7NntqZprIChhEhyKL3M=
+			6MD10HfW4p+7z4dNxQIKJfIirhs=
 			</data>
 			<key>hash2</key>
 			<data>
-			FVVlxsOjk76Q/lj/6oubTw8eyrd6wnQb7CakyhAArOU=
+			+fQmC/9GNWQaHMgW6gtONpZ1yTJ7bOo6sH+xoPOk+tw=
 			</data>
 		</dict>
 		<key>Modules/AccuraOCR.swiftmodule/armv7.swiftdoc</key>
@@ -586,11 +606,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IJBlf34P7NntqZprIChhEhyKL3M=
+			6MD10HfW4p+7z4dNxQIKJfIirhs=
 			</data>
 			<key>hash2</key>
 			<data>
-			FVVlxsOjk76Q/lj/6oubTw8eyrd6wnQb7CakyhAArOU=
+			+fQmC/9GNWQaHMgW6gtONpZ1yTJ7bOo6sH+xoPOk+tw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -602,6 +622,39 @@
 			<key>hash2</key>
 			<data>
 			CRl0RND/qCrmOhVnWJ2f5dLii5cbYp5Sn0YJZNzU+NU=
+			</data>
+		</dict>
+		<key>ZoomHybrid.pub</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			a42NKC8AYfpIqKXU1P09wssgiko=
+			</data>
+			<key>hash2</key>
+			<data>
+			zEbjfQYuo7pNlXenrRr/X0hMrvgL86AR291RUg9UnGE=
+			</data>
+		</dict>
+		<key>default_user.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VZELNtwNPlgWn11c3dV0vtnRx/Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			cuop9B92U649LFF4SzOyRNp2+QjNcbMXGk8JqVicuC4=
+			</data>
+		</dict>
+		<key>fdata.xml</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8MEF54k9TRXjJg++ew/DmG4lAg8=
+			</data>
+			<key>hash2</key>
+			<data>
+			geq6K3ZW3HJv7kWij+dwRzMMW/B+pElevO84cSwcajw=
 			</data>
 		</dict>
 		<key>mMQDF_f_Passport_bottom.dic</key>
@@ -624,6 +677,28 @@
 			<key>hash2</key>
 			<data>
 			LmEaKouzvpVcdLOgQooNbgZxJxuqHBk36CG9UNzVEPM=
+			</data>
+		</dict>
+		<key>model1.dat</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3hLGO7CdwyE9Dhv/vJmQ5VS5gLM=
+			</data>
+			<key>hash2</key>
+			<data>
+			6UKuwdV+jJr5Mf6LCOjdq8kqkrLvj6Pr9msHlAfCZ0Y=
+			</data>
+		</dict>
+		<key>model2.dat</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KI/UN33nya2KZ/QVrhqKPo+vgZ0=
+			</data>
+			<key>hash2</key>
+			<data>
+			W2r1A1b+3he9yJ+E9Rh+nzJ1SSkg0XePSttx+1e4MOQ=
 			</data>
 		</dict>
 	</dict>
