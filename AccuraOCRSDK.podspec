@@ -10,7 +10,6 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, "9.0"
   spec.static_framework = true
   spec.source       = { :git => "https://github.com/accurascan/iOS-AccuraOCR-SDK.git", :tag => "1.0.10"}
-  spec.source_files = 'accuraocrSDK/**/*.{swift}'
   spec.preserve_paths = 'AccuraOCR.framework'
   spec.vendored_frameworks = 'AccuraOCR.framework'
   spec.requires_arc = true
