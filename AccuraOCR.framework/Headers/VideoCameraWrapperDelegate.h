@@ -32,6 +32,7 @@ typedef NS_ENUM(NSUInteger, RecogType) {
 -(void)dlPlateNumber:(NSString*)plateNumber andImageNumberPlate:(UIImage*)imageNumberPlate;
 
 -(void)resultData:(ResultModel*)resultmodel;
+-(void)reco_msg:(NSString*)message;
 
 -(void)screenSound;
 

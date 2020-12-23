@@ -13,6 +13,21 @@
 #import "Firebase.h"
 #import "ResultModel.h"
 
+typedef NS_ENUM(NSUInteger, CameraFacing)
+{
+    CAMERA_FACING_BACK,
+    CAMERA_FACING_FRONT
+};
+
+typedef NS_ENUM(NSUInteger, CardSide)
+{
+    BACK_CARD_SCAN,
+    FRONT_CARD_SCAN
+};
+
+CameraFacing Camerafacing;
+CardSide ScanCard;
+
 @interface AccuraCameraWrapper : NSObject
 
 {
@@ -32,7 +47,7 @@
 - (SDKModels *)loadEngine:(NSString *)url;
 - (NSMutableArray *)getOCRList;
 
--(id)initWithDelegate:(UIViewController<VideoCameraWrapperDelegate>*)delegate andImageView:(UIImageView *)iv andLabelMsg:(UILabel*)l andurl:(NSString*)url cardId:(int)cardId countryID:(int)countryID isScanOCR:(bool)isScanOCR andLabelMsgTop:(UILabel*)msgTop andcardName:(NSString*)cardName andcardType:(int)cardType;
+-(id)initWithDelegate:(UIViewController<VideoCameraWrapperDelegate>*)delegate andImageView:(UIImageView *)iv andLabelMsg:(UILabel*)l andurl:(NSString*)url cardId:(int)cardId countryID:(int)countryID isScanOCR:(bool)isScanOCR andLabelMsgTop:(UILabel*)msgTop andcardName:(NSString*)cardName andcardType:(int)cardType andMRZDocType:(int)MRZDocumentType;
 -(id)initWithDelegate:(UIViewController<VideoCameraWrapperDelegate>*)delegate andImageView:(UIImageView *)iv andLabelMsg:(UILabel*)l andurl:(int)url  isBarcodeEnable:(bool)isBE countryID:(int)countryID setBarcodeType:(NSString*)setBarcodeType;
 -(void)startCamera;
 -(void)stopCamera;
@@ -49,6 +64,11 @@
 -(void)setGlarePercentage:(int)intMin intMax:(int)intMax stGlareMessage:(NSString *)stGlareMessage;
 -(void)setCheckPhotoCopy:(BOOL)isPhoto stCheckPhotoMessage:(NSString *)stCheckPhotoMessage;
 -(void)accuraSDK;
+-(void)SetCameraFacing:(CameraFacing)camera;
+-(void)SwitchCamera;
+-(void)setBlurPercentage:(int)blur;
+-(void)andCardSide:(CardSide)scanCardFirst;
+-(void)CloseOCR;
 
 
 
