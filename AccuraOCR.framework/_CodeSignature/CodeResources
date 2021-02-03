@@ -4,6 +4,14 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.gitkeep</key>
+		<data>
+		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+		</data>
+		<key>Assets.car</key>
+		<data>
+		OrN1BjN6WNsNzjQurMDbWVzWNjc=
+		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
 		<data>
 		96Uw5p4tLIiDbN11Du0p0c5xqE8=
@@ -18,7 +26,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/Info.plist</key>
 		<data>
-		dxJQuN0LHsg122AzPbGYNPFAvbk=
+		m8naCGVFTXF7/ZCkG5rH9eoovcs=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
 		<data>
@@ -58,7 +66,7 @@
 		</data>
 		<key>GoogleMVTextDetectorResources.bundle/Info.plist</key>
 		<data>
-		EoK00nNzG1JKiYH4f2ltiiBoQkU=
+		rcjAiZ4ndLZsR4JF4nG2ucZSazI=
 		</data>
 		<key>GoogleMVTextDetectorResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -90,11 +98,11 @@
 		</data>
 		<key>Headers/AccuraCameraWrapper.h</key>
 		<data>
-		wPzktHSwbV6MiTJaTeL9EkkuzbY=
+		DpaJrFjZ6dDk3oa/GRK4PcrCR1o=
 		</data>
 		<key>Headers/AccuraOCR-Swift.h</key>
 		<data>
-		MrddpeUN7lZ41nAK8D3Eo4kZqi0=
+		rt1EJzH4lcpHXkvyzh225iaJkO8=
 		</data>
 		<key>Headers/AccuraOCR.h</key>
 		<data>
@@ -110,79 +118,63 @@
 		</data>
 		<key>Headers/SDKModels.h</key>
 		<data>
-		fPjGYLXil/Csjm6VQAuusGnKwDw=
+		/+t7t5UUfZQGFW+LstgptZgy7XY=
 		</data>
 		<key>Headers/VideoCameraWrapperDelegate.h</key>
 		<data>
-		HbWyXERztd4yNpuQQDeJ+mudWt0=
+		p5IRuyPwOz4CogO6UUVinj2/yEc=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		RFvUfkzGfWRDoAQyqN5aelTyaHc=
+		bdphfyJmMCZuhTuryV2KSeJ+818=
 		</data>
-		<key>Modules/AccuraOCR.swiftmodule/arm.swiftdoc</key>
+		<key>Liveness.storyboardc/Info.plist</key>
 		<data>
-		dUermRnTSka3dd9gqy7W0CMalbs=
+		c6gnEXIXFVfD9Lr4D0mrXjRtRIk=
 		</data>
-		<key>Modules/AccuraOCR.swiftmodule/arm.swiftinterface</key>
+		<key>Liveness.storyboardc/LivenessVC.nib</key>
 		<data>
-		BppQ675aHR0SwGa1PBodJp11z+Q=
+		P/sjnN7ZUuzq4XoDdOUM+3aYlpQ=
 		</data>
-		<key>Modules/AccuraOCR.swiftmodule/arm.swiftmodule</key>
+		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<data>
-		tDx+y46wq/J9YSEVa2TwrquRQxY=
+		I/zBZLI6x0o3iaoy2q2gJd0hkhU=
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		rW/Mcz8eIsK9vRlGN64ojaqSbJ4=
+		XKdQqD6gikeXGqjlZcTtjITctu8=
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		Mxip8pmdLOdQHK4ueEIOEzNZYUQ=
+		yGFzvaOGUXJgTE1alH1huN3TEtc=
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		2xxsCFeVn3VsBAcMaAj2E594awo=
+		5eHmzwfpQmGYFTHKYdTxcgTTGv8=
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		rW/Mcz8eIsK9vRlGN64ojaqSbJ4=
+		XKdQqD6gikeXGqjlZcTtjITctu8=
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		Mxip8pmdLOdQHK4ueEIOEzNZYUQ=
+		yGFzvaOGUXJgTE1alH1huN3TEtc=
 		</data>
 		<key>Modules/AccuraOCR.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		2xxsCFeVn3VsBAcMaAj2E594awo=
-		</data>
-		<key>Modules/AccuraOCR.swiftmodule/armv7-apple-ios.swiftdoc</key>
-		<data>
-		dUermRnTSka3dd9gqy7W0CMalbs=
-		</data>
-		<key>Modules/AccuraOCR.swiftmodule/armv7-apple-ios.swiftinterface</key>
-		<data>
-		BppQ675aHR0SwGa1PBodJp11z+Q=
-		</data>
-		<key>Modules/AccuraOCR.swiftmodule/armv7-apple-ios.swiftmodule</key>
-		<data>
-		tDx+y46wq/J9YSEVa2TwrquRQxY=
-		</data>
-		<key>Modules/AccuraOCR.swiftmodule/armv7.swiftdoc</key>
-		<data>
-		dUermRnTSka3dd9gqy7W0CMalbs=
-		</data>
-		<key>Modules/AccuraOCR.swiftmodule/armv7.swiftinterface</key>
-		<data>
-		BppQ675aHR0SwGa1PBodJp11z+Q=
-		</data>
-		<key>Modules/AccuraOCR.swiftmodule/armv7.swiftmodule</key>
-		<data>
-		tDx+y46wq/J9YSEVa2TwrquRQxY=
+		5eHmzwfpQmGYFTHKYdTxcgTTGv8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		Sl9tv2nyQS2QovjvOoYpYt9kBLo=
+		</data>
+		<key>ProgressSUD.bundle/progresshud-error@2x.png</key>
+		<data>
+		TidljxvBtawQRR1ReUa7/wF1sp0=
+		</data>
+		<key>ProgressSUD.bundle/progresshud-success@2x.png</key>
+		<data>
+		SCYfSuQkXi++HbUCnvveWTagC3A=
 		</data>
 		<key>ZoomHybrid.pub</key>
 		<data>
@@ -211,12 +203,22 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>.gitkeep</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+			</data>
+		</dict>
+		<key>Assets.car</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wgoYiXVFCBLyqzLzy9RFN4ayOQCgdKeA1INrII78VJY=
+			</data>
+		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			96Uw5p4tLIiDbN11Du0p0c5xqE8=
-			</data>
 			<key>hash2</key>
 			<data>
 			8A8lZEpijnOMFV9JPQcq8UPyU8v5nwi/SCnL5dT0NRw=
@@ -224,10 +226,6 @@
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLlefteyeclosed_200.emd</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KBTvwnLXsoe2PIlGUwZzMUOp5k8=
-			</data>
 			<key>hash2</key>
 			<data>
 			0xIT5PJf+LIXgeeG/YnO3lkX75s/vlC99V1IOvE27e0=
@@ -235,10 +233,6 @@
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLrighteyeclosed_200.emd</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fW6O7h6Je5DNmNrbOeCGmAixyLI=
-			</data>
 			<key>hash2</key>
 			<data>
 			Y8oL2DjlGXdImtrbgKC+AWxaoLe2kPvDiaBkWqzP5P8=
@@ -246,21 +240,13 @@
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			dxJQuN0LHsg122AzPbGYNPFAvbk=
-			</data>
 			<key>hash2</key>
 			<data>
-			0hGm3enHS19eydIx8Wa3LPbGZxCeIZxyHzbyGZr+Xxk=
+			vCza91yHvJwYVpkF7++Uf0A7PgZsnpkNZhLrnb2Fm5E=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			trY9XrpS4DxHzs3eHljZHIJNHrI=
-			</data>
 			<key>hash2</key>
 			<data>
 			DtXIUoL5QNFKVyOmwK8F+cKr1Okww8TwvloHI203QRE=
@@ -268,10 +254,6 @@
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/MFT_fssd_accgray.pb</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tq7fRawRQ359i/c0FEVvpQ6Oee0=
-			</data>
 			<key>hash2</key>
 			<data>
 			8K2wTXshtNmImTKmLw7/En7tsn0vhTQqkBRBU8oLgbE=
@@ -279,10 +261,6 @@
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/MFT_fssd_fastgray.pb</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DP+qJf0czliL6znGLVx90ASNzCY=
-			</data>
 			<key>hash2</key>
 			<data>
 			CUNCXfGzUODFinvmaL4flC6sM4wZjhpPFoWco+Eif0U=
@@ -290,10 +268,6 @@
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/blazeface.tfl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			oseYQ/EQxo7JsNpdNgo4YVLh7a4=
-			</data>
 			<key>hash2</key>
 			<data>
 			TyXMFC6WtfIbMjbSFmwuZikgaB8dI5QtJRDpjIr27Nw=
@@ -301,10 +275,6 @@
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/contours.tfl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PaAh9+zFw3Is4fLMn5iQsLG5M34=
-			</data>
 			<key>hash2</key>
 			<data>
 			hBYLwMSnSVF+Yvk8ssaKuP9J3lcfcOttFgJUypoHicA=
@@ -312,10 +282,6 @@
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/fssd_100_8bit_gray_v1.tflite</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			VCp0NyrYJWQnYbGaxVv0Vzy0IeA=
-			</data>
 			<key>hash2</key>
 			<data>
 			ekzwnGrkp1gUTUK/NbmiapWYfjxYQdDcORCVaYKZ2as=
@@ -323,10 +289,6 @@
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/fssd_100_8bit_v1.tflite</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			AHaxev+fV4YGoIDboAUFlxfISmY=
-			</data>
 			<key>hash2</key>
 			<data>
 			OvuTDu3I0dQENEgCgdO16M7EwwTlLTT9/IqVCDQLtxk=
@@ -334,10 +296,6 @@
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/fssd_25_8bit_gray_v1.tflite</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Rd53RFFpKHZNvbiDaE2p4XxjbY0=
-			</data>
 			<key>hash2</key>
 			<data>
 			IVEbvtJxoKkri5ORjg+I9u+70RWjbRVV8GHO4TH2qzw=
@@ -345,10 +303,6 @@
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/fssd_25_8bit_v1.tflite</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RxtbTN3LjpFChp3tmniX3KD+dsE=
-			</data>
 			<key>hash2</key>
 			<data>
 			2pAlL0mzu5QuX4gBgKFFYfZpKW5/s+3s3quqi2u3gio=
@@ -356,21 +310,13 @@
 		</dict>
 		<key>GoogleMVTextDetectorResources.bundle/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			EoK00nNzG1JKiYH4f2ltiiBoQkU=
-			</data>
 			<key>hash2</key>
 			<data>
-			G7qLcHYe+RDrQewNZgPPl7eTGK/x0b5TLUoYnoZuGmY=
+			F2DHwXjc+ilWDVJfir+Hdf332N40vqLn8Hbi6CYQn44=
 			</data>
 		</dict>
 		<key>GoogleMVTextDetectorResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			V2ROSYH9TDZ87SKQfYmC78jkabg=
-			</data>
 			<key>hash2</key>
 			<data>
 			Gji2RtEJwU3YrjDV8SqQNvYPnpI8kwEzeqJQd1nysJg=
@@ -378,10 +324,6 @@
 		</dict>
 		<key>GoogleMVTextDetectorResources.bundle/rpn_lstm_engine_tflite_latin.bincfg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			W+TF/C0djllwb4ejtlbbwoqIOaA=
-			</data>
 			<key>hash2</key>
 			<data>
 			EPDNQpLTZ7J3ggU9/BhgwGKbEwmAWLOsHW7KYoi7+wQ=
@@ -389,10 +331,6 @@
 		</dict>
 		<key>GoogleMVTextDetectorResources.bundle/rpn_text_detector_mobile_space_to_depth_quantized_v2.tflite</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6ny23cax5EGQNgpJKSnhJUhpxtQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			KQajsAlTNRgTxJFzQeGXEH7SqqwtF2UIkHWNwZAnHe4=
@@ -400,10 +338,6 @@
 		</dict>
 		<key>GoogleMVTextDetectorResources.bundle/tflite_lstm_recognizer_latin_0.3.bincfg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ixRR2K5ZEPmzRLTzVw1N8fzeIT0=
-			</data>
 			<key>hash2</key>
 			<data>
 			WWAFDedH5yYOYcmXOrtzF8y39iXBQE6/iRjBKrvI7P4=
@@ -411,10 +345,6 @@
 		</dict>
 		<key>GoogleMVTextDetectorResources.bundle/tflite_lstm_recognizer_latin_0.3.class_lst</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			68PK2+uslXMmEpqkRadeVy2t0PE=
-			</data>
 			<key>hash2</key>
 			<data>
 			VRUPJ3nQeTbJ+/i+y7hWf+PqWta22UQkWClpWorpaPo=
@@ -422,10 +352,6 @@
 		</dict>
 		<key>GoogleMVTextDetectorResources.bundle/tflite_lstm_recognizer_latin_0.3.conv_model</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			BQIj06B3MVer0TIFCE1lwPQqAQ8=
-			</data>
 			<key>hash2</key>
 			<data>
 			ZKunGbTtHuWz1IhsWq8LGsBRv1h56bCOhh4OKeIKCKc=
@@ -433,10 +359,6 @@
 		</dict>
 		<key>GoogleMVTextDetectorResources.bundle/tflite_lstm_recognizer_latin_0.3.lstm_model</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			oYS7+p9yJEEy3UOE1YgjDNNbLAM=
-			</data>
 			<key>hash2</key>
 			<data>
 			DtYuT74PxcQJCuxHOxNuGI+ChZB2XAKDgjWNrds8y24=
@@ -444,32 +366,20 @@
 		</dict>
 		<key>Headers/AccuraCameraWrapper.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wPzktHSwbV6MiTJaTeL9EkkuzbY=
-			</data>
 			<key>hash2</key>
 			<data>
-			100lHqD8s5xeQ0hGJbnteXbbfxIcbH/TooUvr7bjSo4=
+			JdRRwUYXYgD7PvyW6BgwG/DIbhKZSrT2rNFxk+/ZLSA=
 			</data>
 		</dict>
 		<key>Headers/AccuraOCR-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MrddpeUN7lZ41nAK8D3Eo4kZqi0=
-			</data>
 			<key>hash2</key>
 			<data>
-			xXgndo5uVNHjAnCmAJI26IBg1cFYOIO+NNXtPBTL7mM=
+			+KgnsQdhCKe+X/kWUfBRVuI2NDpZnk/DHkC2q6nc+Dk=
 			</data>
 		</dict>
 		<key>Headers/AccuraOCR.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			HPRWLYzN1i+UM5BdY0KkMs3kcdw=
-			</data>
 			<key>hash2</key>
 			<data>
 			QgA4HkTGAymI4BpKrKjadFktyYKwed2OEM22rQqwgx0=
@@ -477,10 +387,6 @@
 		</dict>
 		<key>Headers/GlobalMethods.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Ql9iCV4o9Ke4feWERUPl1QQhsKI=
-			</data>
 			<key>hash2</key>
 			<data>
 			LtATFy+lb24LEGkyONIL0WyGfmWaxFWjaPWbAlqXMmQ=
@@ -488,10 +394,6 @@
 		</dict>
 		<key>Headers/ResultModel.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			o4KPCZ7OH4VLjVesq1dno/8lTcA=
-			</data>
 			<key>hash2</key>
 			<data>
 			EufC9karrmH+FgtWvmy8QaHBt5hMTjyvRIvN2Ot/jo4=
@@ -499,208 +401,104 @@
 		</dict>
 		<key>Headers/SDKModels.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fPjGYLXil/Csjm6VQAuusGnKwDw=
-			</data>
 			<key>hash2</key>
 			<data>
-			oGY0/CZSdrwIJXTDS4UXB4AnKxn5kMj7szasLOwBz0M=
+			HMaAOimCanw9hVkavc137c9Y6H5f9M+Sx7inah6rm/M=
 			</data>
 		</dict>
 		<key>Headers/VideoCameraWrapperDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			HbWyXERztd4yNpuQQDeJ+mudWt0=
-			</data>
 			<key>hash2</key>
 			<data>
-			otGXSpc72qGTcpAcTzNQO9h0bC9R5UljQAFLB4h9f98=
+			XNhr+oCBl2X1C4MJXvwAwSCdykOEppG6MFdhlFYOsf0=
 			</data>
 		</dict>
-		<key>Modules/AccuraOCR.swiftmodule/arm.swiftdoc</key>
+		<key>Liveness.storyboardc/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			dUermRnTSka3dd9gqy7W0CMalbs=
-			</data>
 			<key>hash2</key>
 			<data>
-			AIby9UOGxsMBzwbMvgWPrVl9V6tT5zZGsTDcL1P/VM4=
+			cfa0vBbrQFAxVxoXTL+BEK7Jmrkj79KGwSQH/TR4Evs=
 			</data>
 		</dict>
-		<key>Modules/AccuraOCR.swiftmodule/arm.swiftinterface</key>
+		<key>Liveness.storyboardc/LivenessVC.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			BppQ675aHR0SwGa1PBodJp11z+Q=
-			</data>
 			<key>hash2</key>
 			<data>
-			gsWPrKx1gNUXI3XUO+7aIUkQLxFQcutSzxWZodDrvmw=
+			Ve4no4QO26uc/bfIW/W2JifO+vvxlKZbDYr788gClDc=
 			</data>
 		</dict>
-		<key>Modules/AccuraOCR.swiftmodule/arm.swiftmodule</key>
+		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tDx+y46wq/J9YSEVa2TwrquRQxY=
-			</data>
 			<key>hash2</key>
 			<data>
-			dBKn8GpJNhsrhn3oHthFaFMYE8xWcdh/SvRHBjONf9o=
+			7wS1ZHfjI6Cj72JIhh6P4jp9xC7zlMkWHm+r2soTJEc=
 			</data>
 		</dict>
 		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rW/Mcz8eIsK9vRlGN64ojaqSbJ4=
-			</data>
 			<key>hash2</key>
 			<data>
-			lu0ZWc0gwZIaX1WyOZzvUBTfkSUpY/V57sgjmT+Ibog=
+			9t9pJ6V0FxpqLJsEfYj+wnN4l7RGamifAiQKVTm50js=
 			</data>
 		</dict>
 		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Mxip8pmdLOdQHK4ueEIOEzNZYUQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			AspJRjWyCAnG/k92qHciwa1eZMprIlEd2f/A6iZ0kdA=
+			FH99JuYO7ELPXKsLDvbe7U8AvXJ8X2p/CUS2Z1ZnmV4=
 			</data>
 		</dict>
 		<key>Modules/AccuraOCR.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2xxsCFeVn3VsBAcMaAj2E594awo=
-			</data>
 			<key>hash2</key>
 			<data>
-			dTDVRK+/tDP9Etze2j/QdX46uRF158YL6q8552+lqDw=
+			X6neISaVfmo5rue08U5zG9IQ1jykuRhAMTA2nL7epME=
 			</data>
 		</dict>
 		<key>Modules/AccuraOCR.swiftmodule/arm64.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rW/Mcz8eIsK9vRlGN64ojaqSbJ4=
-			</data>
 			<key>hash2</key>
 			<data>
-			lu0ZWc0gwZIaX1WyOZzvUBTfkSUpY/V57sgjmT+Ibog=
+			9t9pJ6V0FxpqLJsEfYj+wnN4l7RGamifAiQKVTm50js=
 			</data>
 		</dict>
 		<key>Modules/AccuraOCR.swiftmodule/arm64.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Mxip8pmdLOdQHK4ueEIOEzNZYUQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			AspJRjWyCAnG/k92qHciwa1eZMprIlEd2f/A6iZ0kdA=
+			FH99JuYO7ELPXKsLDvbe7U8AvXJ8X2p/CUS2Z1ZnmV4=
 			</data>
 		</dict>
 		<key>Modules/AccuraOCR.swiftmodule/arm64.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2xxsCFeVn3VsBAcMaAj2E594awo=
-			</data>
 			<key>hash2</key>
 			<data>
-			dTDVRK+/tDP9Etze2j/QdX46uRF158YL6q8552+lqDw=
-			</data>
-		</dict>
-		<key>Modules/AccuraOCR.swiftmodule/armv7-apple-ios.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			dUermRnTSka3dd9gqy7W0CMalbs=
-			</data>
-			<key>hash2</key>
-			<data>
-			AIby9UOGxsMBzwbMvgWPrVl9V6tT5zZGsTDcL1P/VM4=
-			</data>
-		</dict>
-		<key>Modules/AccuraOCR.swiftmodule/armv7-apple-ios.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BppQ675aHR0SwGa1PBodJp11z+Q=
-			</data>
-			<key>hash2</key>
-			<data>
-			gsWPrKx1gNUXI3XUO+7aIUkQLxFQcutSzxWZodDrvmw=
-			</data>
-		</dict>
-		<key>Modules/AccuraOCR.swiftmodule/armv7-apple-ios.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			tDx+y46wq/J9YSEVa2TwrquRQxY=
-			</data>
-			<key>hash2</key>
-			<data>
-			dBKn8GpJNhsrhn3oHthFaFMYE8xWcdh/SvRHBjONf9o=
-			</data>
-		</dict>
-		<key>Modules/AccuraOCR.swiftmodule/armv7.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			dUermRnTSka3dd9gqy7W0CMalbs=
-			</data>
-			<key>hash2</key>
-			<data>
-			AIby9UOGxsMBzwbMvgWPrVl9V6tT5zZGsTDcL1P/VM4=
-			</data>
-		</dict>
-		<key>Modules/AccuraOCR.swiftmodule/armv7.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BppQ675aHR0SwGa1PBodJp11z+Q=
-			</data>
-			<key>hash2</key>
-			<data>
-			gsWPrKx1gNUXI3XUO+7aIUkQLxFQcutSzxWZodDrvmw=
-			</data>
-		</dict>
-		<key>Modules/AccuraOCR.swiftmodule/armv7.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			tDx+y46wq/J9YSEVa2TwrquRQxY=
-			</data>
-			<key>hash2</key>
-			<data>
-			dBKn8GpJNhsrhn3oHthFaFMYE8xWcdh/SvRHBjONf9o=
+			X6neISaVfmo5rue08U5zG9IQ1jykuRhAMTA2nL7epME=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Sl9tv2nyQS2QovjvOoYpYt9kBLo=
-			</data>
 			<key>hash2</key>
 			<data>
 			CRl0RND/qCrmOhVnWJ2f5dLii5cbYp5Sn0YJZNzU+NU=
 			</data>
 		</dict>
+		<key>ProgressSUD.bundle/progresshud-error@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+TiMp/Zv80nW2eD10vj2rvIfbN4viVxIPBm7d74ywgs=
+			</data>
+		</dict>
+		<key>ProgressSUD.bundle/progresshud-success@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+v82W7lFz7eNbvJ0yHCC+tLiLMmxtKhI2RIYoa7QEuU=
+			</data>
+		</dict>
 		<key>ZoomHybrid.pub</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			a42NKC8AYfpIqKXU1P09wssgiko=
-			</data>
 			<key>hash2</key>
 			<data>
 			zEbjfQYuo7pNlXenrRr/X0hMrvgL86AR291RUg9UnGE=
@@ -708,10 +506,6 @@
 		</dict>
 		<key>fdata.xml</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8MEF54k9TRXjJg++ew/DmG4lAg8=
-			</data>
 			<key>hash2</key>
 			<data>
 			geq6K3ZW3HJv7kWij+dwRzMMW/B+pElevO84cSwcajw=
@@ -719,10 +513,6 @@
 		</dict>
 		<key>mMQDF_f_Passport_bottom.dic</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			38k89ZfFrkgKQCHCOvRpXgG1MFA=
-			</data>
 			<key>hash2</key>
 			<data>
 			sBgig9mP0TevZUhsSPWIGbJYKp71AXdUCrIZypzQIDY=
@@ -730,10 +520,6 @@
 		</dict>
 		<key>mMQDF_f_Passport_bottom_Gray.dic</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			y/e5l/CcgWM//QQSePyQnMd+ahA=
-			</data>
 			<key>hash2</key>
 			<data>
 			LmEaKouzvpVcdLOgQooNbgZxJxuqHBk36CG9UNzVEPM=
@@ -741,10 +527,6 @@
 		</dict>
 		<key>model1.dat</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3hLGO7CdwyE9Dhv/vJmQ5VS5gLM=
-			</data>
 			<key>hash2</key>
 			<data>
 			6UKuwdV+jJr5Mf6LCOjdq8kqkrLvj6Pr9msHlAfCZ0Y=
@@ -752,10 +534,6 @@
 		</dict>
 		<key>model2.dat</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KI/UN33nya2KZ/QVrhqKPo+vgZ0=
-			</data>
 			<key>hash2</key>
 			<data>
 			W2r1A1b+3he9yJ+E9Rh+nzJ1SSkg0XePSttx+1e4MOQ=

@@ -45,10 +45,14 @@ CardSide ScanCard;
 
 
 - (SDKModels *)loadEngine:(NSString *)url;
+-(void)setDefaultDialogs:(bool)isShowErrorDialogs;
 - (NSMutableArray *)getOCRList;
 
 -(id)initWithDelegate:(UIViewController<VideoCameraWrapperDelegate>*)delegate andImageView:(UIImageView *)iv andLabelMsg:(UILabel*)l andurl:(NSString*)url cardId:(int)cardId countryID:(int)countryID isScanOCR:(bool)isScanOCR andLabelMsgTop:(UILabel*)msgTop andcardName:(NSString*)cardName andcardType:(int)cardType andMRZDocType:(int)MRZDocumentType;
 -(id)initWithDelegate:(UIViewController<VideoCameraWrapperDelegate>*)delegate andImageView:(UIImageView *)iv andLabelMsg:(UILabel*)l andurl:(int)url  isBarcodeEnable:(bool)isBE countryID:(int)countryID setBarcodeType:(NSString*)setBarcodeType;
+
+-(id)initWithDelegate:(UIViewController<VideoCameraWrapperDelegate>*)delegate andImageView:(UIImageView *)iv andMsgLabel:(UILabel*)l andfeedBackframeMessage:(NSString*)feedBackframeMessage andfeedBackAwayMessage:(NSString*)feedBackAwayMessage andfeedBackOpenEyesMessage:(NSString*)feedBackOpenEyesMessage andfeedBackCloserMessage:(NSString*)feedBackCloserMessage andfeedBackCenterMessage:(NSString*)feedBackCenterMessage andfeedBackMultipleFaceMessage:(NSString*)feedBackMultipleFaceMessage andfeedBackFaceSteady:(NSString*)feedBackFaceSteady andfeedBackLowLightMessage:(NSString*)feedBackLowLightMessage andfeedBackBlurFaceMessage:(NSString*)feedBackBlurFaceMessage andfeedBackGlareFaceMessage:(NSString*)feedBackGlareFaceMessage andcheckLivess:(bool)checkLivenss;
+
 -(void)startCamera;
 -(void)stopCamera;
 -(void)ChangedOrintation:(CGFloat)width height:(CGFloat)height;
@@ -57,17 +61,18 @@ CardSide ScanCard;
 
 -(void)processWithBack1:(NSString*)stCard  andisCheckBack:(bool)isCheckBack;
 -(void)drawFeatures:(UIImage *)image11;
--(void)setHologramDetection:(BOOL)hologram sthologramMessage:(NSString *)sthologramMessage;
--(void)setFaceBlurPercentage:(int)faceBlur stFaceBlurMessage:(NSString *)stFaceBlurMessage;
--(void)setLowLightTolerance:(int)lowLight stLowLightMessage:(NSString *)stLowLightMessage;
--(void)setMotionThreshold:(int)motion stMassage:(NSString *)stMassage;
--(void)setGlarePercentage:(int)intMin intMax:(int)intMax stGlareMessage:(NSString *)stGlareMessage;
--(void)setCheckPhotoCopy:(BOOL)isPhoto stCheckPhotoMessage:(NSString *)stCheckPhotoMessage;
+-(void)setHologramDetection:(BOOL)hologram;
+-(void)setFaceBlurPercentage:(int)faceBlur;
+-(void)setLowLightTolerance:(int)lowLight;
+-(void)setMotionThreshold:(int)motion;
+-(void)setGlarePercentage:(int)intMin intMax:(int)intMax;
+-(void)setCheckPhotoCopy:(BOOL)isPhoto;
 -(void)accuraSDK;
 -(void)SetCameraFacing:(CameraFacing)camera;
 -(void)SwitchCamera;
 -(void)setBlurPercentage:(int)blur;
 -(void)andCardSide:(CardSide)scanCardFirst;
+-(void)showLogFile:(bool)isShowLogs;
 -(void)CloseOCR;
 
 

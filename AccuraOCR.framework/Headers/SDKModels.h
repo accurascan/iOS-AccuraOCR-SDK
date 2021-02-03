@@ -16,6 +16,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property BOOL isMRZEnable;
 @property BOOL isOCREnable;
 @property BOOL isPDF417Enable;
+@property BOOL isBankCardEnable;
 
 @end
 
