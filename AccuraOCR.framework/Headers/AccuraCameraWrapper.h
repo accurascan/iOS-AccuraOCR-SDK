@@ -10,7 +10,7 @@
 #import <UIKit/UIKit.h>
 #import "VideoCameraWrapperDelegate.h"
 #import "SDKModels.h"
-//#import "MLKit.h"
+
 #import "ResultModel.h"
 
 typedef NS_ENUM(NSUInteger, CameraFacing)
@@ -71,7 +71,7 @@ typedef NS_ENUM(NSUInteger, BarcodeType)
 -(id)initWithDelegate:(UIViewController<VideoCameraWrapperDelegate>*)delegate andImageView:(UIImageView *)iv andLabelMsg:(UILabel*)l andurl:(NSString*)url cardId:(int)cardId countryID:(int)countryID isScanOCR:(bool)isScanOCR andcardName:(NSString*)cardName andcardType:(int)cardType andMRZDocType:(int)MRZDocumentType;
 -(id)initWithDelegate:(UIViewController<VideoCameraWrapperDelegate>*)delegate andImageView:(UIImageView *)iv andLabelMsg:(UILabel*)l andurl:(int)url  isBarcodeEnable:(bool)isBE countryID:(int)countryID setBarcodeType:(BarcodeType)setBarcodeType;
 
-//-(id)initWithDelegate:(UIViewController<VideoCameraWrapperDelegate>*)delegate andImageView:(UIImageView *)iv andMsgLabel:(UILabel*)l andfeedBackframeMessage:(NSString*)feedBackframeMessage andfeedBackAwayMessage:(NSString*)feedBackAwayMessage andfeedBackOpenEyesMessage:(NSString*)feedBackOpenEyesMessage andfeedBackCloserMessage:(NSString*)feedBackCloserMessage andfeedBackCenterMessage:(NSString*)feedBackCenterMessage andfeedBackMultipleFaceMessage:(NSString*)feedBackMultipleFaceMessage andfeedBackFaceSteady:(NSString*)feedBackFaceSteady andfeedBackLowLightMessage:(NSString*)feedBackLowLightMessage andfeedBackBlurFaceMessage:(NSString*)feedBackBlurFaceMessage andfeedBackGlareFaceMessage:(NSString*)feedBackGlareFaceMessage andcheckLivess:(bool)checkLivenss;
+-(id)initWithDelegate:(UIViewController<VideoCameraWrapperDelegate>*)delegate andImageView:(UIImageView *)iv andMsgLabel:(UILabel*)l andfeedBackframeMessage:(NSString*)feedBackframeMessage andfeedBackAwayMessage:(NSString*)feedBackAwayMessage andfeedBackOpenEyesMessage:(NSString*)feedBackOpenEyesMessage andfeedBackCloserMessage:(NSString*)feedBackCloserMessage andfeedBackCenterMessage:(NSString*)feedBackCenterMessage andfeedBackMultipleFaceMessage:(NSString*)feedBackMultipleFaceMessage andfeedBackFaceSteady:(NSString*)feedBackFaceSteady andfeedBackLowLightMessage:(NSString*)feedBackLowLightMessage andfeedBackBlurFaceMessage:(NSString*)feedBackBlurFaceMessage andfeedBackGlareFaceMessage:(NSString*)feedBackGlareFaceMessage andcheckLivess:(bool)checkLivenss;
 
 -(void)startCamera;
 -(void)stopCamera;
@@ -92,7 +92,7 @@ typedef NS_ENUM(NSUInteger, BarcodeType)
 -(void)setLivenessGlarePercentage:(int)glareMin glareMax:(int)glareMax;
 -(void)setLivenessBlurPercentage:(int)blur;
 -(void)setMinFrameForValidate:(int)minFrame;
--(void)accuraSDK;
+//-(void)accuraSDK;
 -(void)SetCameraFacing:(CameraFacing)camera;
 -(void)SwitchCamera;
 -(void)setBlurPercentage:(int)blur;
@@ -100,7 +100,7 @@ typedef NS_ENUM(NSUInteger, BarcodeType)
 -(void)showLogFile:(bool)isShowLogs;
 -(void)changeBarcodeType:(BarcodeType)barcodetype;
 -(void)CloseOCR;
--(NSString *)getMRZSDKVersion;
+-(NSString *)getSDKVersion;
 
 
 
